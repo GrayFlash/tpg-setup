@@ -1,2 +1,3 @@
-# How-To-Setup-Influxdb-Telegraf-And-Grafana-using-Docker-Compose
-How To Setup Influxdb Telegraf And Grafana using Docker Compose
+# Setup for Telegraf Prometheus and Grafana using Docker-Compose
+
+Docker-compose file for a minimal setup, considering StatsD as an input.
